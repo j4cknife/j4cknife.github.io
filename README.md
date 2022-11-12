@@ -1,7 +1,5 @@
 <html>
-<style>
-<link rel="stylesheet" type="text/css" href="styles.css">
-</style>
+<link rel="stylesheet" type="text/css" href="./style.css">
 <H1>Bookmarks</H1>
 <DL><p>
     <DL><p>
