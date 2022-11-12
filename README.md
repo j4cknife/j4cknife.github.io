@@ -1,5 +1,4 @@
 <HTML>
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1654812765" LAST_MODIFIED="1654183864" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks Bar</H3>
