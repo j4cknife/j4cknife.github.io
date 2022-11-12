@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <H1>Bookmarks</H1>
 <DL><p>
     <DL><p>
