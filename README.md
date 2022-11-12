@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-body { color: var(--color-fg-default); background-color: var(--color-canvas-default); }
+<link rel="stylesheet" type="text/css" href="styles.css">
 </style>
 </head>
 <H1>Bookmarks</H1>
