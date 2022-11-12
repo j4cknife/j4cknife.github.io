@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../../../resources/index.min.css">
 <H1>Bookmarks</H1>
 <DL><p>
     <DL><p>
