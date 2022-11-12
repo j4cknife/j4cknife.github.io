@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
 <style>
 <link rel="stylesheet" type="text/css" href="styles.css">
 </style>
-</head>
 <H1>Bookmarks</H1>
 <DL><p>
     <DL><p>
