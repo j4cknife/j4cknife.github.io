@@ -2,13 +2,9 @@
 <html>
 <head>
 <style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
+body { color: var(--color-fg-default); background-color: var(--color-canvas-default); }
 </style>
 </head>
-
-<link rel="stylesheet" type="text/css" href="style.css">
 <H1>Bookmarks</H1>
 <DL><p>
     <DL><p>
