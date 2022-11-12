@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+
 <link rel="stylesheet" type="text/css" href="style.css">
 <H1>Bookmarks</H1>
 <DL><p>
